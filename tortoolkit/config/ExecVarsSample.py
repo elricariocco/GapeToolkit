@@ -37,10 +37,10 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DATABASE_URL = "dbname=gapetoolkit user=gapetoolkit_user password=gapetoolkit_user host=dpg-ca7gh5c41ls5n7qeco70-a.oregon-postgres.render.com/gapetoolkit port=5432"
+        DATABASE_URL = "dbname=gapes user=gapes_user password=IaGXqD6X9X1MXKlEta1zXechr9u5dyGU host=dpg-ca7gsoc41ls5n7qecu00-a.oregon-postgres.render.com/gapes port=5432"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
-        #DATABASE_URL = "dbname=gapetoolkit user=gapetoolkit_user password=gapetoolkit_user host=dpg-ca7gh5c41ls5n7qeco70-a.oregon-postgres.render.com/gapetoolkit port=5432"
+        #DATABASE_URL = "dbname=gapes user=gapes_user password=IaGXqD6X9X1MXKlEta1zXechr9u5dyGU host=dpg-ca7gsoc41ls5n7qecu00-a.oregon-postgres.render.com/gapes port=5432"
 
         # Use the central update (everything will be updated in one msg)
         CENTRAL_UPDATE = True
